@@ -186,7 +186,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <p style="color: red;">※選択してください</p>
         <?php endif; ?>   
         <h2>&nbsp;</h2>
-        <p>➡️<input type="submit" value="確定する"></p>
+        <p><input type="submit" value="確定する"></p>
         <h2>&nbsp;</h2>
     </form>
 </body>
